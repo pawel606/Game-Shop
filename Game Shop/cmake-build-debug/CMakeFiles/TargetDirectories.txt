@@ -1,0 +1,3 @@
+C:/Users/paaww/Desktop/testowanie/cmake-build-debug/CMakeFiles/testowanie.dir
+C:/Users/paaww/Desktop/testowanie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/paaww/Desktop/testowanie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

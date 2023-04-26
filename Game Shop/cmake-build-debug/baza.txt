@@ -1,0 +1,50 @@
+M
+7
+It takes two
+PC
+Przygodowa
+99.99
+1
+true
+S
+70
+Elden Ring
+PC
+MMORPG
+219.99
+1
+50
+S
+40
+Witcher 3:Wild hunt
+PC
+RPG
+99.99
+1
+70
+S
+70
+Assassin`s Creed Odyssey
+Konsola
+Przygodowa/RPG
+199.99
+1
+40
+M
+60
+Battlefield 5
+PC
+Strzelanka
+159.99
+1
+true
+S
+50
+Horizon Zero down
+Konsola
+Przygodowa/RPG
+239.99
+1
+30
+
+
