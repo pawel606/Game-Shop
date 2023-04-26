@@ -1,2 +1,2 @@
 # Game-Shop
-Need to install SFLM library
+Need to install SFML library
